@@ -25,6 +25,7 @@ This project demonstrates a simple data engineering pipeline that extracts book 
 ---
 
 ## 📁 Project Structure
+```
 book-scraper-pipeline/
 ├── data/                  # store raw or cleaned data
 ├── src/                   # all Python code goes here
@@ -34,7 +35,7 @@ book-scraper-pipeline/
 ├── main.py                # runs the full pipeline
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 📦 Setup Instructions
